@@ -1,0 +1,15 @@
+# practice data files
+iris.csv
+new_iris_data.csv
+shopping_data.csv
+shopping_data_cleaned.csv
+
+#practice code files
+iris.ipynb
+shopping.ipynb
+clustering.ipynb
+clustering2.ipynb
+elbow_curve.ipynb
+shopping_elbow.ipynb
+pca.ipynb
+hierarchical_clustering.ipynb
